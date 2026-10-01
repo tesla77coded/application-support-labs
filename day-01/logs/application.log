@@ -1,0 +1,27 @@
+2026-09-25 16:05:11 INFO  User login successful user_id=1042
+2026-09-25 16:06:43 INFO  User login successful user_id=1187
+2026-09-25 16:08:21 INFO  Report page loaded user_id=1042
+2026-09-25 16:09:02 INFO  Report generation requested user_id=1042 report_type=monthly
+2026-09-25 16:09:03 INFO  Database query started user_id=1042 query=monthly_report
+2026-09-25 16:09:05 INFO  Database query completed user_id=1042 duration=2.1s
+2026-09-25 16:09:06 INFO  Report generated successfully user_id=1042
+2026-09-25 16:12:18 INFO  Report page loaded user_id=1187
+2026-09-25 16:14:37 INFO  Report generation requested user_id=1187 report_type=monthly
+2026-09-25 16:14:38 INFO  Database query started user_id=1187 query=monthly_report
+2026-09-25 16:14:40 INFO  Database query completed user_id=1187 duration=2.0s
+2026-09-25 16:14:41 INFO  Report generated successfully user_id=1187
+2026-09-25 16:17:02 INFO  Report page loaded user_id=1261
+2026-09-25 16:17:18 INFO  Report generation requested user_id=1261 report_type=monthly
+2026-09-25 16:17:19 INFO  Database query started user_id=1261 query=monthly_report
+2026-09-25 16:17:49 ERROR Database query failed user_id=1261 error="connection timeout" host=db-prod-01
+2026-09-25 16:17:49 ERROR Report generation failed user_id=1261
+2026-09-25 16:18:07 INFO  Report page loaded user_id=1314
+2026-09-25 16:18:23 INFO  Report generation requested user_id=1314 report_type=monthly
+2026-09-25 16:18:24 INFO  Database query started user_id=1314 query=monthly_report
+2026-09-25 16:18:54 ERROR Database query failed user_id=1314 error="connection timeout" host=db-prod-01
+2026-09-25 16:18:54 ERROR Report generation failed user_id=1314
+2026-09-25 16:19:11 INFO  Report page loaded user_id=1402
+2026-09-25 16:19:27 INFO  Report generation requested user_id=1402 report_type=monthly
+2026-09-25 16:19:28 INFO  Database query started user_id=1402 query=monthly_report
+2026-09-25 16:19:58 ERROR Database query failed user_id=1402 error="connection timeout" host=db-prod-01
+2026-09-25 16:19:58 ERROR Report generation failed user_id=1402
