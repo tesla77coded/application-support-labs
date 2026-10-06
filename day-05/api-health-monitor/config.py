@@ -1,0 +1,4 @@
+URL = "https://httpbin.org/"
+TIMEOUT = 5
+LATENCY_THRESHOLD = 2.0
+CHECK_INTERVAL = 10
